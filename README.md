@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GraphQL**
 
-- 📝 I regulary write articles on [https://ab63.github.io](ab63.github.io)
+- 📝 I regulary write articles on [ab63.github.io](https://ab63.github.io)
 
 - 📫 How to reach me **bansalanuj9@gmail.com**
 
