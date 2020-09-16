@@ -19,7 +19,7 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab63&layout=compact" alt="ab63" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab63&layout=compact" alt="ab63" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ab63&show_icons=true" alt="ab63" /></p>
 
